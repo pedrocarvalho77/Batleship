@@ -10,6 +10,7 @@ Para compilar é preciso:
 2. make engine
 3. ./engine
 
+# How to play
 Esta versão do battleship contém um random setup e manual setup;
 
 Com um tamanho para o mapa entre 20 a 40;
