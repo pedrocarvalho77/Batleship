@@ -1,6 +1,6 @@
 # Batleship Game made for a university subject
 
-## How to compile
+## How to compile and run
 
 Para compilar é preciso:
 
@@ -16,11 +16,11 @@ De seguia é pedido para ser inserido em concordancia com os dois jogadores o nu
 
 Esta verão contem 5 tipos de barcos:
 
-1º) Tipo T;
-2º) Tipo U;
-3º) Tipo |; 
-4º) Tipo ||;
-5º) Tipo L;
+1. Tipo T;
+2. Tipo U;
+3. Tipo |; 
+4. Tipo ||;
+5. Tipo L;
 
 
 Depois é pedido para colocar os barcos um a um;
