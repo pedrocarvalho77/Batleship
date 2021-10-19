@@ -1,4 +1,4 @@
-# Batleship Game feito para unidade curricular
+# Battleship Game feito para unidade curricular
 O trabalho eśta divido em 8 ficheiros '.c'
 
 ## Como compilar e correr
