@@ -1,16 +1,14 @@
-# Batleship Game made for a university subject
-
+# Batleship Game feito para unidade curricular
 O trabalho eśta divido em 8 ficheiros '.c'
 
-## How to compile and run
-
+## Como compilar e correr
 Para compilar é preciso:
 
 1. make static 
 2. make engine
 3. ./engine
 
-# How to play
+# Como jogar
 
 Esta versão do battleship contém um random setup e um manual setup
 
